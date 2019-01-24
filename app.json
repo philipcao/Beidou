@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/shequ/shequ",
+    "pages/mall/mall",
+    "pages/qr/qr",
+    "pages/path/path",
+    "pages/pathresult/pathresult",
+    "pages/timeselect/timeselect",
+    "pages/shequnews/shequnews"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "北斗星",
+    "navigationBarTextStyle": "black"
+  }
+}
